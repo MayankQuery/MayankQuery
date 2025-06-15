@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Mayank Pathak aka MayankQuery
+🎓 Final Year BTech CSE | 🔐 Cybersecurity Enthusiast  
+📍 India | Looking for remote/abroad roles in Cybersecurity  
 
-<!--
-**MayankQuery/MayankQuery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Currently Learning:
+- Google Cybersecurity Certificate (Completed ✅)
+- Kali Linux | Nmap | Metasploit | Burp Suite | Phishing  
+- Building Vulnerability Assessment Projects (Kali + OWASP Top 10)
 
-Here are some ideas to get you started:
+📂 Featured Projects:
+- 🔍 Vulnerability Assessment Lab [Coming Soon]
+- 🔓 Simple Penetration Testing Scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let's Connect:
+LinkedIn: https://www.linkedin.com/in/mayank-pathak-/
+Email: mayankpathak8119@gmail.com 
