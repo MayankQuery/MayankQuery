@@ -12,5 +12,4 @@
 - 🔓 Simple Penetration Testing Scripts
 
 📬 Let's Connect:
-LinkedIn: https://www.linkedin.com/in/mayank-pathak-/
-Email: mayankpathak8119@gmail.com 
+LinkedIn: https://www.linkedin.com/in/mayank-pathak-/ | Email: mayankpathak8119@gmail.com 
